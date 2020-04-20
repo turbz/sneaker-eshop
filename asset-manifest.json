@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sneaker-eshop/static/css/main.0a74fc10.chunk.css",
+    "main.css": "/sneaker-eshop/static/css/main.9374e1ba.chunk.css",
     "main.js": "/sneaker-eshop/static/js/main.bc2eb874.chunk.js",
     "main.js.map": "/sneaker-eshop/static/js/main.bc2eb874.chunk.js.map",
     "runtime-main.js": "/sneaker-eshop/static/js/runtime-main.de79b4c7.js",
@@ -9,10 +9,10 @@
     "static/js/2.878b8eed.chunk.js": "/sneaker-eshop/static/js/2.878b8eed.chunk.js",
     "static/js/2.878b8eed.chunk.js.map": "/sneaker-eshop/static/js/2.878b8eed.chunk.js.map",
     "index.html": "/sneaker-eshop/index.html",
-    "precache-manifest.1499a0e454f9c5839a1cc30af83d2005.js": "/sneaker-eshop/precache-manifest.1499a0e454f9c5839a1cc30af83d2005.js",
+    "precache-manifest.ea226ac8a559f38dfe65d67a62e3cc79.js": "/sneaker-eshop/precache-manifest.ea226ac8a559f38dfe65d67a62e3cc79.js",
     "service-worker.js": "/sneaker-eshop/service-worker.js",
     "static/css/2.ab8a0683.chunk.css.map": "/sneaker-eshop/static/css/2.ab8a0683.chunk.css.map",
-    "static/css/main.0a74fc10.chunk.css.map": "/sneaker-eshop/static/css/main.0a74fc10.chunk.css.map",
+    "static/css/main.9374e1ba.chunk.css.map": "/sneaker-eshop/static/css/main.9374e1ba.chunk.css.map",
     "static/js/2.878b8eed.chunk.js.LICENSE.txt": "/sneaker-eshop/static/js/2.878b8eed.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "/sneaker-eshop/static/media/arrow-left.9991d4a4.svg",
     "static/media/bag.svg": "/sneaker-eshop/static/media/bag.965444ae.svg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.de79b4c7.js",
     "static/css/2.ab8a0683.chunk.css",
     "static/js/2.878b8eed.chunk.js",
-    "static/css/main.0a74fc10.chunk.css",
+    "static/css/main.9374e1ba.chunk.css",
     "static/js/main.bc2eb874.chunk.js"
   ]
 }
