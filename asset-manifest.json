@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sneaker-eshop/static/css/main.135e2f1b.chunk.css",
-    "main.js": "/sneaker-eshop/static/js/main.7ff298e3.chunk.js",
-    "main.js.map": "/sneaker-eshop/static/js/main.7ff298e3.chunk.js.map",
+    "main.css": "/sneaker-eshop/static/css/main.0a74fc10.chunk.css",
+    "main.js": "/sneaker-eshop/static/js/main.bc2eb874.chunk.js",
+    "main.js.map": "/sneaker-eshop/static/js/main.bc2eb874.chunk.js.map",
     "runtime-main.js": "/sneaker-eshop/static/js/runtime-main.de79b4c7.js",
     "runtime-main.js.map": "/sneaker-eshop/static/js/runtime-main.de79b4c7.js.map",
     "static/css/2.ab8a0683.chunk.css": "/sneaker-eshop/static/css/2.ab8a0683.chunk.css",
     "static/js/2.878b8eed.chunk.js": "/sneaker-eshop/static/js/2.878b8eed.chunk.js",
     "static/js/2.878b8eed.chunk.js.map": "/sneaker-eshop/static/js/2.878b8eed.chunk.js.map",
     "index.html": "/sneaker-eshop/index.html",
-    "precache-manifest.34d9557e68c4afe069734673cd165a76.js": "/sneaker-eshop/precache-manifest.34d9557e68c4afe069734673cd165a76.js",
+    "precache-manifest.1499a0e454f9c5839a1cc30af83d2005.js": "/sneaker-eshop/precache-manifest.1499a0e454f9c5839a1cc30af83d2005.js",
     "service-worker.js": "/sneaker-eshop/service-worker.js",
     "static/css/2.ab8a0683.chunk.css.map": "/sneaker-eshop/static/css/2.ab8a0683.chunk.css.map",
-    "static/css/main.135e2f1b.chunk.css.map": "/sneaker-eshop/static/css/main.135e2f1b.chunk.css.map",
+    "static/css/main.0a74fc10.chunk.css.map": "/sneaker-eshop/static/css/main.0a74fc10.chunk.css.map",
     "static/js/2.878b8eed.chunk.js.LICENSE.txt": "/sneaker-eshop/static/js/2.878b8eed.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "/sneaker-eshop/static/media/arrow-left.9991d4a4.svg",
     "static/media/bag.svg": "/sneaker-eshop/static/media/bag.965444ae.svg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.de79b4c7.js",
     "static/css/2.ab8a0683.chunk.css",
     "static/js/2.878b8eed.chunk.js",
-    "static/css/main.135e2f1b.chunk.css",
-    "static/js/main.7ff298e3.chunk.js"
+    "static/css/main.0a74fc10.chunk.css",
+    "static/js/main.bc2eb874.chunk.js"
   ]
 }
