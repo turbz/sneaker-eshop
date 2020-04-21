@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16fca01a7ae01a69cd9ac002ad190833",
+    "revision": "a1096423b8f246ec93809dc954dd2147",
     "url": "/sneaker-eshop/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneaker-eshop/static/css/2.ab8a0683.chunk.css"
   },
   {
-    "revision": "149968ae8d55ed2b2cfa",
-    "url": "/sneaker-eshop/static/css/main.062d5494.chunk.css"
+    "revision": "bc29c4493a2b125c4b86",
+    "url": "/sneaker-eshop/static/css/main.a861d3d5.chunk.css"
   },
   {
     "revision": "abecf2c74c5f2d27cdc2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sneaker-eshop/static/js/2.3838b6bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "149968ae8d55ed2b2cfa",
-    "url": "/sneaker-eshop/static/js/main.43dc1809.chunk.js"
+    "revision": "bc29c4493a2b125c4b86",
+    "url": "/sneaker-eshop/static/js/main.718f48a4.chunk.js"
   },
   {
     "revision": "36258269848e55c1fe8f",
